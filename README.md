@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me 👋
 
-<!--
-**Eduardo-Cordeiro/Eduardo-Cordeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Economist** and Python student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+
+- 🔭 Astronomic Data Analysis
+- 🌱 Urban Centers Morphologic Analysis
+- 💬 Automated Log Analysis
+- 📈 Data Visualization
+- ⚡ Automated Strategies
+
+📫 How to reach me: eduardo.econ.cord@gmail.com
+
