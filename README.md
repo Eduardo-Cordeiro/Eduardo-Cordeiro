@@ -5,7 +5,6 @@
 
 Projects:
 
-- 🔭 Astronomic Data Analysis
 - 🌱 Urban Centers Morphologic Analysis
 - 💬 Automated Log Analysis
 - 📈 Data Visualization
