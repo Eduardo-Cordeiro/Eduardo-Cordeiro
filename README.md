@@ -6,7 +6,6 @@
 Projects:
 
 - 🌱 Urban Centers Morphologic Analysis
-- 💬 Automated Log Analysis
 - 📈 Data Visualization
 - ⚡ Automated Strategies
 
