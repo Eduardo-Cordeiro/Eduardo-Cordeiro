@@ -5,9 +5,8 @@
 
 Projects:
 
-- 🌱 Urban Centers Morphologic Analysis
+- 🌱 Urban Economy
 - 📈 Data Visualization
-- ⚡ Automated Strategies
 
 📫 How to reach me: eduardo.econ.cord@gmail.com
 
